@@ -1,3 +1,5 @@
+//https://www.inf.pucrs.br/~pinho/LaproI/Structs/Structs.htm
+
 #include <stdio.h>
 
 int main() {
