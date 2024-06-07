@@ -1,4 +1,4 @@
-//https://www.inf.pucrs.br/~pinho/LaproI/Structs/Structs.htm
+//atividade valendo pontuação extra cujo objetivo é fazer um quadrado mágico
 
 #include <stdio.h>
 
