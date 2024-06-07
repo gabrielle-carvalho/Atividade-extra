@@ -1,3 +1,4 @@
+//programa com objetivo de calcular o fatorial
 #include <stdio.h>
 main()
 {
