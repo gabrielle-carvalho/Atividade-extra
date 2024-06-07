@@ -1,3 +1,4 @@
+//calcula a potenciação
 #include <stdio.h>
 main()
 {
